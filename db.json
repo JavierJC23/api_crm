@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel",
+      "empresa": "Bimbo",
+      "email": "bimbo@bimbo.com",
+      "telefono": "2134557",
+      "notas": "Nuevo Problema Detectado",
+      "id": 1
+    },
+    {
+      "nombre": "Javier",
+      "empresa": "Crol",
+      "email": "javierleonacruji@gmail.com",
+      "telefono": "6624637940",
+      "notas": "Solicitud de empleo",
+      "id": 2
+    },
+    {
+      "nombre": "Isna",
+      "empresa": "Isna Protesis",
+      "email": "isna.p19@gmail.com",
+      "telefono": "6624637940",
+      "notas": "Nuevo camion de carga",
+      "id": 3
+    },
+    {
+      "nombre": "Tomas",
+      "empresa": "Coca cola",
+      "email": "correo@correo.com",
+      "telefono": "2394024",
+      "notas": "Compra nueva",
+      "id": 4
+    },
+    {
+      "nombre": "Timy",
+      "empresa": "telcel",
+      "email": "hola@dede.com",
+      "telefono": "6624637940",
+      "notas": "compras",
+      "id": 5
+    },
+    {
+      "nombre": "Luis",
+      "empresa": "Ford",
+      "email": "ford@ford.com",
+      "telefono": "3432454",
+      "notas": "Compra",
+      "id": 6
+    },
+    {
+      "nombre": "Alex",
+      "empresa": "CMDS",
+      "email": "correo@correo.com",
+      "telefono": "214453",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Martin",
+      "empresa": "Estela",
+      "email": "javiercitocruz@live.com.mx",
+      "telefono": "",
+      "notas": "",
+      "id": 9
+    }
+  ]
+}
